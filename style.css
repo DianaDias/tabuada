@@ -1,0 +1,113 @@
+.topo{
+  background: purple;
+  bottom: 149px;
+  margin: 157px;
+  position: relative;
+}
+
+.trofeu {
+  bottom: 47px;
+  left: 50px;
+  position: relative;
+}
+
+.footer {
+  padding: 9px;
+  text-align: right;
+  bottom: 290px;
+  border-top: 1px solid #800080;
+  position: relative;
+}
+
+.btn-sortear {
+  top: 297px;
+  left: 890px;
+  position: relative;
+}
+
+.btn-resultado {
+  top: 237px;
+  left: 1050px;
+  position: relative;
+}
+
+.meio {
+  /*font-size: 170px;*/
+  bottom: 120px;
+  height: 307px;
+  left: 46px;
+  position: relative;
+}
+
+.msg {
+  text-align: -webkit-center;
+  left: -71px;
+  bottom: 79px;
+  font-family: monospace;
+  position: relative;
+}
+
+.botoes{
+  left: -170px;
+  bottom: 560px;
+  position: relative;
+}
+
+.valor1 {
+  font-size: 121px;
+  left: 127px;
+  bottom: 102px;
+  font-weight: 700;
+  left: 127px;
+  position: relative;
+}
+
+.valor2 {
+  left: 127px;
+  font-size: 121px;
+  font-weight: 700;
+  left: 489px;
+  bottom: 428px;
+  position: relative;
+}
+
+.x {
+  left: 127px;
+  font-weight: 700;
+  font-size: 100px;
+  bottom: 261px;
+  left: 320px;
+  position: relative;
+}
+
+.igual {
+  font-weight: 700;
+  font-size: 108px;
+  bottom: 612px;
+  left: 654px;
+  position: relative;
+}
+
+.resultado {
+  left: 127px;
+  font-size: 121px;
+  font-weight: 700;
+  bottom: 781px;
+  left: 767px;
+  position: relative;
+}
+
+p {
+  left: 162px;
+  top: 49px;
+  font-size: 33px;
+  font-style: oblique;
+  font-weight: bolder;
+  font-family: sans-serif;
+  color: snow;
+  position: relative;
+}
+
+body{
+ height: 0px;
+}
